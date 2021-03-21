@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="48" viewBox="0 0 172 48">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 40px;
+        font-family: HelveticaNeue-Bold, Helvetica Neue;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-family: HelveticaNeue-UltraLight, Helvetica Neue;
+        font-weight: 100;
+      }
+    </style>
+  </defs>
+  <text id="PINELI.DEV" class="cls-1" transform="translate(0 39)"><tspan x="0" y="0">pineli</tspan><tspan class="cls-2" y="0">.dev</tspan></text>
+</svg>

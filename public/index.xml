@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PINELI</title>
+    <link>http://pineli.dev/</link>
+    <description>Recent content on PINELI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 18 Mar 2021 21:19:40 -0300</lastBuildDate><atom:link href="http://pineli.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CONFERÊNCIA IOT 2021</title>
+      <link>http://pineli.dev/post/conferencia-iot-2021/</link>
+      <pubDate>Thu, 18 Mar 2021 21:19:40 -0300</pubDate>
+      
+      <guid>http://pineli.dev/post/conferencia-iot-2021/</guid>
+      <description>Palestrante na CONFERÊNCIA IOT 2021 - Tudo Sobre IOT Este ano está sendo especial, tive a oportunidade de palestrar entre grandes experts do mercado de internet das coisas do Brasil, na CONFERÊNCIA IOT 2021 do Tudo Sobre IOT.
+A conferência 26 palestras com experts do mundo IoT brasileiro, entre mestres, doutores e profissionais.
+Entre os dias 21 a 26 de março o evento será gratuído pelo Youtube de acordo com a agenda abaixo.</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>http://pineli.dev/post/about-me/</link>
+      <pubDate>Thu, 18 Mar 2021 21:19:40 -0300</pubDate>
+      
+      <guid>http://pineli.dev/post/about-me/</guid>
+      <description>Sou o Pineli, Entusiasta por novas tecnologias de software e eletrônica e membro da comunidade Tudo Sobre IoT, escrevi minhas primeiras linhas de códigos em meados de 1995. Desde então foi muito conhecimento e experiência adquirido e compartilhado em setores ligados a tecnologia, como: automação industrial, desenvolvimento de produtos eletroeletrônicos, sistemas de segurança eletrônica, desenvolvimento WEB, comércio eletrônico e IoT. Nos tempos livres, gosto muito de séries, caminhadas, aeromodelismo, aprender e minha família.</description>
+    </item>
+    
+  </channel>
+</rss>
